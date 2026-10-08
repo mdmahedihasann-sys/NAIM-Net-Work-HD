@@ -1,2 +1,2 @@
-# NAIM-Net-Work-HD
+# NAIM-Net-Work-HD.m3u
 Iptv
