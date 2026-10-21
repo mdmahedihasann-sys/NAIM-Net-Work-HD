@@ -17,6 +17,8 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Somoy Tv
 https://tvsen5.aynascope.net/somoytv/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Independent
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1 group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢"tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png",Channel 24
@@ -312,7 +314,7 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/sharjahtvquranpubl
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 #EXTINF:-1 group-title="饾悐饾悽饾悵饾惉" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png",Nick Bangla
 http://live.balajibroadband.com:3500/live/1341.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV HD (396p)
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV HD (396p)
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
@@ -335,7 +337,7 @@ http://88.212.15.19/live/disney_channel_hun/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" group-title="𝐊𝐢𝐝𝐬",Discovery Kids
 https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV HD (396p)
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV HD (396p)
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
@@ -384,7 +386,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.in@SD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV HD (396p)
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://bhoomtv.me/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36"https://bhoomtv.me/", like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",MTV HD (396p)
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
 https://maamusic.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8
@@ -1388,7 +1390,7 @@ http://66.102.126.10:8000/play/a00f/index.m3u8
 http://66.102.126.10:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" group-title="Movies",Star Gold Select HD (1080p)
 http://149.71.34.166:8000/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://www.hotstar.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36"https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36"https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36"https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Movies",Star Gold Thrills (576p)
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" tvg-logo="https://i.postimg.cc/wvChzHv9/naim-network-HD.png" http-referrer="https://www.hotstar.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML referrer="https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36"https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36"https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36"https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36"https://www.hotstar.com/", like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Movies",Star Gold Thrills (576p)
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
 http://103.253.18.58:8000/play/a00o
